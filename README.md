@@ -46,14 +46,19 @@ Model Metrics and Conclusion:
 The Multinomial Naive Bayes model achieved the following performance on the test set:
 
 Accuracy: 94%
+
 Precision:
 Negative feedback: 68%
+
 Positive feedback: 95%
+
 Recall:
 Negative feedback: 39%
 Positive feedback: 98%
+
 F1-score:
 Negative feedback: 49%
 Positive feedback: 97%
+
 The model performs very well at predicting positive feedback but has a lower precision and recall for negative feedback, which suggests it has more difficulty in correctly identifying negative reviews.    
 
