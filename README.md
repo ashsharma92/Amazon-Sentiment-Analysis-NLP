@@ -9,8 +9,11 @@ Actions:
 
 Data Loading and Exploration:
 Loads the dataset (amazon_reviews.csv) into a pandas DataFrame.
+
 Explores the data by displaying the first few rows, checking data types, and generating descriptive statistics.
+
 Handles missing values (if any) using a heatmap to visualize nullity.
+
 Data Cleaning and Preprocessing:
 Removes the rating column as it is not needed for the analysis.
 Calculates the length of each review and stores it in a new column.
